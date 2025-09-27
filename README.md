@@ -73,10 +73,14 @@ This repository is open for contributions, but only those changes that improve o
 
 ---
 
-## 👥 Contributors  
+# 🚀 Contributors
 
-Thanks to all the amazing people who contribute!  
+Thanks go to these **Wonderful People** 👨🏻‍💻  
 
-<a href="https://github.com/yesiamrajeev/Portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yesiamrajeev/Portfolio" />
-</a>
+<!-- CONTRIBUTORS START -->
+<!-- CONTRIBUTORS END -->
+
+---
+
+✨ Want to join? Open a PR to add yourself to `contributors.json`!
+
